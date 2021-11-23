@@ -1,0 +1,4 @@
+,coin_pair,swap_pair,date_added,price_defference,dex_1,dex_2
+0,DAI-BUSD,PancakeSwap-BakarySwap,"11/22/2021, 18:04:25",0.0000,PancakeSwap(0.9974),BakarySwap(0.9974)
+1,USDC-BUSD,PancakeSwap-BakarySwap,"11/22/2021, 18:04:25",0.0002,PancakeSwap(0.998),BakarySwap(0.9982)
+2,USDC-DAI,PancakeSwap-BakarySwap,"11/22/2021, 18:04:25",0.0000,PancakeSwap(0.9979),BakarySwap(0.9979)

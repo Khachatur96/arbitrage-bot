@@ -1,0 +1,10 @@
+.idea/
+pycache/
+venv/
+*/*/*/pycache/
+*/*/pycache/
+*/pycache/*.log
+*.pot
+*.pyc
+*/pycache/
+test1-316510-624349e4ac61.json

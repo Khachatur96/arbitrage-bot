@@ -1,0 +1,4 @@
+,coin_pair,swap_pair,date_added,price_defference,dex_1,dex_2
+0,DAI-USDT,SushiSwap-UniSwap,"09/28/2021, 18:11:44",0.003,SushiSwap(0.995178),UniSwap(0.997703)
+1,USDT-USDC,UniSwap-SushiSwap,"09/28/2021, 18:11:44",0.000,UniSwap(0.0),SushiSwap(0.0)
+2,DAI-USDC,UniSwap-SushiSwap,"09/28/2021, 18:11:44",0.004,UniSwap(0.997291),SushiSwap(1.001303)
